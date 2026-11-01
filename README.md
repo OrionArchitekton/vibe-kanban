@@ -1,3 +1,7 @@
+> Legacy. This repo is from the earlier Cosmocrat governance platform and is
+> not part of the current Cosmocrat OS release. Current tools:
+> <https://www.cosmocrat.ai/tools>
+
 <p align="center">
   <a href="https://vibekanban.com">
     <picture>
